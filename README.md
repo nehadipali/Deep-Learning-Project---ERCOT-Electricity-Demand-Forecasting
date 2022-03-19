@@ -1,4 +1,4 @@
-# DeepLearningProject-TimeSeriesForecasting
+# Deep Learning Project-ERCOT Electricity Demand Forecasting
 Electricity Demand Forecasting using Deep Learning Techniques
 
 One of the main characteristics that sets electricity aside from other consumer products is its need to be consumed as soon as it is generated. Although storing overproduced electricity is possible, the main challenges include the type and efficiency of the storage technology. While some electricity is wasted during the storage process, resulting in higher per-unit costs, the other issues include environmental hazards from raw materials such as lithium or lead. It is hence imperative that electricity be generated to match the demand. Accurate forecasts can result in substantial reductions in operating and maintenance costs, improved reliability of power supply and delivery systems, and better decisions for future development.
